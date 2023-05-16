@@ -1,0 +1,8 @@
+local repo(used to push our images)
+https://registrygaming.jfrog.io/artifactory/api/docker/local-gaming
+
+remote repo(acts as cached repo for remote repo)
+https://registrygaming.jfrog.io/artifactory/api/docker/remote-gaming
+
+virtual repo()
+https:///artifactory/api/docker/virtual-gaming
